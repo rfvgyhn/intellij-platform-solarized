@@ -2039,8 +2039,7 @@
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK_TAG">
       <value>
-        <option name="FOREGROUND" value="eee8d5" />
-        <option name="BACKGROUND" value="b58900" />
+        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_TAG_NAME">
