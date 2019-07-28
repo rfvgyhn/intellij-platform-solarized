@@ -267,7 +267,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FOREGROUND" value="1b1b1b" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -363,7 +363,7 @@
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -384,7 +384,7 @@
     </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="dc322f" />
+        <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -563,12 +563,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -618,7 +618,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -651,7 +651,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -697,7 +697,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" value="6c71c4" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -2054,22 +2054,22 @@
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="ba836d" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM_2">
       <value>
-        <option name="FOREGROUND" value="9e6954" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="ReSharper.HINT">
@@ -2157,7 +2157,7 @@
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="839496" />
       </value>
     </option>
     <option name="ReSharper.REARRANGE_LEFT_RIGHT_CODE_HINT">
@@ -2172,17 +2172,27 @@
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="ReSharper.ST_METHOD">
+      <value>
+        <option name="FOREGROUND" value="6c71c4" />
+      </value>
+    </option>
+    <option name="ReSharper.ST_TYPE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="Regular expression">
@@ -2527,7 +2537,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2aa198" />
+        <option name="FOREGROUND" value="d33682" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="2aa198" />
       </value>
